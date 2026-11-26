@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#15151a"/>
+  <circle cx="200" cy="140" r="110" fill="#1b1b21"/>
+  <circle cx="200" cy="140" r="110" fill="none" stroke="#e8a93c" stroke-opacity="0.25" stroke-dasharray="4 6"/>
+  
+  <g>
+    <path d="M165 130 h70 l-8 60 h-54 z" fill="#e8e8ec"/>
+    <path d="M165 130 h70 l-3 22 h-64 z" fill="#f5c35c"/>
+    <path d="M172 152 q14 18 28 0 q14 -18 28 0 l-3 22 q-12 14 -25 2 q-13 12 -25 -2 z" fill="#e8a93c"/>
+    <circle cx="255" cy="118" r="16" fill="#f25c2a"/>
+    <text x="255" y="124" text-anchor="middle" font-family="system-ui" font-size="16" fill="#fff">+</text>
+  </g>
+  <text x="200" y="278" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#e8a93c" fill-opacity="0.8" letter-spacing="2">EXTRAS</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#15151a"/>
+  <circle cx="200" cy="140" r="110" fill="#1b1b21"/>
+  <circle cx="200" cy="140" r="110" fill="none" stroke="#e8a93c" stroke-opacity="0.25" stroke-dasharray="4 6"/>
+  
+  <g>
+    <ellipse cx="200" cy="185" rx="85" ry="22" fill="#26262e"/>
+    <ellipse cx="200" cy="178" rx="78" ry="18" fill="#f2e6cf"/>
+    <g fill="none" stroke="#f5c35c" stroke-width="7" stroke-linecap="round">
+      <path d="M150 160 q10 -24 30 -10 q22 16 40 -4 q16 -18 34 2"/>
+      <path d="M160 175 q14 -20 32 -6 q20 15 36 -3"/>
+      <path d="M175 150 q12 -16 28 -6"/>
+    </g>
+    <circle cx="170" cy="158" r="5" fill="#f25c2a"/>
+    <circle cx="228" cy="150" r="5" fill="#f25c2a"/>
+    <circle cx="205" cy="170" r="5" fill="#f25c2a"/>
+  </g>
+  <text x="200" y="278" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#e8a93c" fill-opacity="0.8" letter-spacing="2">PASTA</text>
+</svg>

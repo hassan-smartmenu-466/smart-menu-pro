@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#15151a"/>
+  <circle cx="200" cy="140" r="110" fill="#1b1b21"/>
+  <circle cx="200" cy="140" r="110" fill="none" stroke="#e8a93c" stroke-opacity="0.25" stroke-dasharray="4 6"/>
+  
+  <g>
+    <rect x="172" y="95" width="56" height="105" rx="10" fill="#f25c2a"/>
+    <rect x="172" y="95" width="56" height="105" rx="10" fill="none" stroke="#b23c16" stroke-width="4"/>
+    <rect x="182" y="120" width="36" height="34" rx="6" fill="#fff" opacity="0.92"/>
+    <line x1="205" y1="95" x2="220" y2="60" stroke="#f5c35c" stroke-width="8" stroke-linecap="round"/>
+    <ellipse cx="200" cy="200" rx="30" ry="7" fill="#0a0a0c" opacity="0.5"/>
+  </g>
+  <text x="200" y="278" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#e8a93c" fill-opacity="0.8" letter-spacing="2">DRINKS</text>
+</svg>

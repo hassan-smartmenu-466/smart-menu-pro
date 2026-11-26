@@ -1,0 +1,18 @@
+# Render Blueprint — one-click deploy for SMART MENU PRO (free tier)
+# Dashboard → New → Blueprint → pick this repo → Apply. Nothing else to fill in.
+services:
+  - type: web
+    name: smart-menu-pro
+    runtime: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+        # Random admin password is generated on first deploy.
+        # View it later: Render dashboard → smart-menu-pro → Environment → ADMIN_PASSWORD.
+      - key: ADMIN_PASSWORD
+        generateValue: true
+        # NEXT_PUBLIC_BASE_URL is optional: the app falls back to Render's
+        # own RENDER_EXTERNAL_URL automatically (robots/sitemap/QR links).

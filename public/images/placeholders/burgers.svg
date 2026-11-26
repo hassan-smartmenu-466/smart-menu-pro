@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#15151a"/>
+  <circle cx="200" cy="140" r="110" fill="#1b1b21"/>
+  <circle cx="200" cy="140" r="110" fill="none" stroke="#e8a93c" stroke-opacity="0.25" stroke-dasharray="4 6"/>
+  
+  <g>
+    <ellipse cx="200" cy="110" rx="72" ry="30" fill="#d99a4e"/>
+    <ellipse cx="200" cy="103" rx="72" ry="26" fill="#f5c35c"/>
+    <g fill="#f2e6cf"><circle cx="170" cy="96" r="2.4"/><circle cx="195" cy="90" r="2.4"/><circle cx="222" cy="97" r="2.4"/><circle cx="240" cy="104" r="2.4"/><circle cx="180" cy="106" r="2.4"/></g>
+    <path d="M128 132 q18 -12 36 0 q18 12 36 0 q18 -12 36 0 q18 12 36 0 l0 10 l-144 0 z" fill="#7fae4c"/>
+    <rect x="130" y="142" width="140" height="12" rx="6" fill="#f5c35c"/>
+    <rect x="126" y="154" width="148" height="18" rx="9" fill="#6e4127"/>
+    <ellipse cx="200" cy="186" rx="70" ry="16" fill="#b97a35"/>
+  </g>
+  <text x="200" y="278" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#e8a93c" fill-opacity="0.8" letter-spacing="2">BURGERS</text>
+</svg>

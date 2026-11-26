@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#15151a"/>
+  <circle cx="200" cy="140" r="110" fill="#1b1b21"/>
+  <circle cx="200" cy="140" r="110" fill="none" stroke="#e8a93c" stroke-opacity="0.25" stroke-dasharray="4 6"/>
+  
+  <g>
+    <path d="M120 190 L200 80 L280 190 Z" fill="#d99a4e"/>
+    <path d="M136 176 L200 96 L264 176 Z" fill="#f2e6cf"/>
+    <path d="M148 168 q13 -10 26 0 q13 10 26 0 q13 -10 26 0 q13 10 26 0 l0 8 l-104 0 z" fill="#7fae4c"/>
+    <rect x="146" y="180" width="108" height="9" rx="4.5" fill="#f25c2a"/>
+    <path d="M120 190 L200 80 L280 190" fill="none" stroke="#b97a35" stroke-width="6" stroke-linejoin="round"/>
+  </g>
+  <text x="200" y="278" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#e8a93c" fill-opacity="0.8" letter-spacing="2">SANDWICHES</text>
+</svg>
